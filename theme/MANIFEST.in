@@ -1,0 +1,4 @@
+include *.txt
+recursive-include sphinx_homebrew_theme *.conf
+recursive-include sphinx_homebrew_theme *.css
+recursive-include sphinx_homebrew_theme *.html
